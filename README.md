@@ -28,4 +28,8 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 
 [style2paints](https://github.com/lllyasviel/style2paints)
 
+[PaintingLight](https://github.com/lllyasviel/PaintingLight)
+
+[SingleFileDB](https://github.com/lllyasviel/SingleFileDB)
+
 ... [more](https://github.com/lllyasviel?tab=repositories)
