@@ -1,6 +1,4 @@
-[Style2Paints Research](https://lllyasviel.github.io/Style2PaintsResearch)
-
-[Lvmin Zhang (Lyumin Zhang)](https://lllyasviel.github.io/Style2PaintsResearch/lvmin)
+[Style2Paints Research](https://lllyasviel.github.io/Style2PaintsResearch) [Lvmin Zhang (Lyumin Zhang)](https://lllyasviel.github.io/Style2PaintsResearch/lvmin)
 
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
@@ -21,15 +19,9 @@ Because GitHub only allows pinning 6 repos, here is a longer quick list for what
 [Fooocus](https://github.com/lllyasviel/Fooocus)
 
 [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet)
-
 [ControlNet 1.1](https://github.com/lllyasviel/ControlNet-v1-1-nightly)
-
 [ControlNet](https://github.com/lllyasviel/ControlNet)
-
 [style2paints](https://github.com/lllyasviel/style2paints)
-
 [PaintingLight](https://github.com/lllyasviel/PaintingLight)
-
 [SingleFileDB](https://github.com/lllyasviel/SingleFileDB)
-
-... [more](https://github.com/lllyasviel?tab=repositories)
+[more ...](https://github.com/lllyasviel?tab=repositories)
