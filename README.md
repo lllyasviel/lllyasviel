@@ -2,6 +2,8 @@
 
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
+[FramePack](https://github.com/lllyasviel/FramePack)
+
 [Paints-UNDO: Understand Human Behavior to Align True Needs](https://github.com/lllyasviel/Paints-UNDO)
 
 [Omost: Your image is almost there!](https://github.com/lllyasviel/Omost)
