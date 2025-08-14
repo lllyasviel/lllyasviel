@@ -1,4 +1,4 @@
-[Style2Paints Research](https://lllyasviel.github.io/Style2PaintsResearch) [Lvmin Zhang (Lyumin Zhang)](https://lllyasviel.github.io/Style2PaintsResearch/lvmin)
+[Style2Paints Research](https://lllyasviel.github.io/Style2PaintsResearch) [Lvmin Zhang (Lyumin Zhang)](https://lllyasviel.github.io/lvmin_zhang/)
 
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
