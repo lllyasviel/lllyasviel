@@ -2,6 +2,8 @@
 
 Because GitHub only allows pinning 6 repos, here is a longer quick list for what you are looking for:
 
+[VCC (View-oriented Conversation Compiler)](https://github.com/lllyasviel/VCC)
+
 [FramePack](https://github.com/lllyasviel/FramePack)
 
 [Paints-UNDO: Understand Human Behavior to Align True Needs](https://github.com/lllyasviel/Paints-UNDO)
